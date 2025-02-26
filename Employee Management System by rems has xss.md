@@ -20,8 +20,8 @@ This vulnerability is a stored XSS attack, where attackers can store malicious s
 <script>alert('xss')</script>
 ```
 
-![image-20250226151647381](images\image-20250226151647381.png)
+![image-20250226151647381](images/image-20250226151647381.png)
 
-![image-20250226142853436](images\image-20250226142853436.png)
+![image-20250226142853436](images/image-20250226142853436.png)
 
-![image-20250226142900734](\images\image-20250226142900734.png)
+![image-20250226142900734](images/image-20250226142900734.png)
